@@ -1,6 +1,6 @@
 #!/bin/bash
 # # PorkbunDDNS
-# This script can be used to check and update your Porkbun DNS "A" records to the IP address of your current external IP.
+# This script can be used to check and update your Porkbun DNS "A" records to match your current external IP address.
 #
 # ## INSTRUCTIONS ##
 #
