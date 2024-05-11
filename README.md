@@ -1,5 +1,5 @@
 # PorkbunDDNS
-This script can be used to check and update your Porkbun DNS "A" records to match the your current external IP address.
+This script can be used to check and update your Porkbun DNS "A" records to match your current external IP address.
 
 ## INSTRUCTIONS
 ### Setting up variables
