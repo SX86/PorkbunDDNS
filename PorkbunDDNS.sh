@@ -17,9 +17,10 @@
 # Run 
 #     crontab -e
 # and add 
-#     0 0 * * * bash /path/to/script/PorkbunDDNS.sh```. This will run the script daily at midnight.
+#     0 0 * * * bash /path/to/script/PorkbunDDNS.sh
+# This will run the script daily at midnight.
 #
-# Ensure that the script is executable by running  chmod +x /path/to/script/PorkbunDDNS.sh to modify its permissions.
+# Ensure that the script is executable by running chmod +x /path/to/script/PorkbunDDNS.sh to modify its permissions.
 #
 #
 # ## Porkbun API reference documentation :
