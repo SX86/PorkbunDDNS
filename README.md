@@ -3,7 +3,7 @@ This script can be used to check and update your Porkbun DNS "A" records to matc
 
 ## INSTRUCTIONS
 ### Setting up variables
-First, retrieve record IDs by running the following command, replacing the key for both ```secretapikey``` and ```apikey```, as well as ```example.com``` in the URL at the end of the command:
+First, retrieve record IDs by running the following command, replacing the ```key``` for both ```secretapikey``` and ```apikey```, as well as ```example.com``` in the URL at the end of the command:
 
 ```curl --header "Content-Type: application/json" --request POST --data '{"secretapikey": "secret","apikey": "key"}' https://porkbun.com/api/json/v3/dns/retrieve/example.com/```
 
